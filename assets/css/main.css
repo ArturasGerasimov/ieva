@@ -20,7 +20,7 @@ html {
 
 body {
   font-family: 'Allison', cursive !important;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 /*
