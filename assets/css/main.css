@@ -20,6 +20,7 @@ html {
 
 body {
   font-family: 'Allison', cursive !important;
+  overflow: hidden;
 }
 
 /*
@@ -306,7 +307,7 @@ textarea {
 }
 
 .main--page__header a:hover {
-  color: #a42b5d;
+  color: #fff;
   text-decoration: none;
 }
 
